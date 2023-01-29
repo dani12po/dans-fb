@@ -16,15 +16,15 @@
        $ pip install bs4
        $ pip install rich
        $ git clone https://github.com/Luffy-XD/Haki-Fb
-       $ cd Haki-Fb
+       $ cd dan-Fb
        $ git pull
-       $ python haki-fb.py
+       $ python dan-fb.py
 
 <h3 align="left">Klik Dibawah Sini Untuk informasi Contact:</h3>
 
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Luffy-XD)
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Dani12po)
 
 
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/dika.tw.58)
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6283866872105?text=Hello+Bg🔥+)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/imam12po)
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6289507776290?text=Hello+Bg🔥+)
 
