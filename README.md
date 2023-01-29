@@ -15,7 +15,7 @@
        $ pip install mechanize
        $ pip install bs4
        $ pip install rich
-       $ git clone https://github.com/Luffy-XD/Haki-Fb
+       $ git clone https://github.com/Dani12po/Dans-Fb
        $ cd dan-Fb
        $ git pull
        $ python dan-fb.py
